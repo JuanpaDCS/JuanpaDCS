@@ -3,27 +3,31 @@
 
 <h3 align="center">A passionate Mobile App developer from colombia &#127470;&#127475</h3>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔧 Backend developer | Building scalable solutions.
 
-- 🛠️ Backend dev | APIs & automation enthusiast.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- ⚙️ Crafting robust backend systems.
+   - 🔧 Backend developer | Building scalable solutions.
 
-- 🚀 Backend developer | Python & Node.js lover.
+   - 🛠️ Backend dev | APIs & automation enthusiast.
 
-- 👨‍💻 Backend engineer in the making | Keep learning.
+   - ⚙️ Crafting robust backend systems.
+
+   - 🚀 Backend developer | Python & Node.js lover.
+
+   - 👨‍💻 Backend engineer in the making | Keep learning.
   
-- 💬 Ask me about **Reactjs & React-Native**
+   - 💬 Ask me about **Reactjs & React-Native**
 
-- 🔍 Problem solver | Backend developer.
+   - 🔍 Problem solver | Backend developer.
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+   - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -43,4 +47,3 @@
 	   </div>
 
 </p>
-
